@@ -1,6 +1,4 @@
 {
-"update_url": "https://clients2.google.com/service/update2/crx",
-
   "manifest_version": 2,
   "description": "__MSG_5636646071825253269__",
   "default_locale": "en",
@@ -26,7 +24,7 @@
     ],
     "persistent": false
   },
-  "version": "2.0.6",
+  "version": "2.0.7",
   "browser_action": {
     "default_icon": {
       "19": "icons/19.png",
